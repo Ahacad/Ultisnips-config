@@ -55,7 +55,7 @@ modules-right  = ethernet wlan cpu temperature memory battery backlight bluetoot
 
 [bar/secondary]
 inherit = section/base
-modules-left   = bspwm
+modules-left   = bspwm sep date
 modules-right = title sep mpd sep keyboard sep updates
 
 [module/bspwm]

@@ -1,0 +1,8 @@
+[font]
+size = 7.0
+
+[font.normal]
+family = "Caskaydia Cove Nerd Font"
+
+[window]
+opacity = 0.75
